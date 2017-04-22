@@ -1,0 +1,21 @@
+body {
+  font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+.main .area .test {
+  line-height: 10px;
+  width: 80px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 5px;
+  background-color: midnightblue;
+  padding-top: 10px;
+  color: #fff;
+  height: 20px;
+  text-decoration: none;
+}
+.main .area .tests {
+  background-color: #ffff55;
+}
+.main .area .test:hover {
+  opacity: 0.8;
+}
